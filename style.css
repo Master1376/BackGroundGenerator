@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right ,red,blue);
+    font-family: 'Railway',sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    letter-spacing: 0.5em;
+    top: 15%;
+}
+h1{
+    font: 600 3.5 em 'Railway',sanserif;
+    width: 100%;
+}
+
+h3{
+    text-transform: none;
+}
